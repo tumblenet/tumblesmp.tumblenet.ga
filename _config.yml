@@ -8,8 +8,8 @@ repository: tumblenet/website-template
 #favicon: favicon.gif
 
 collections:
- seasons:
-  output: true
+  seasons:
+    output: true
 
 permalink: pretty
 production: true
