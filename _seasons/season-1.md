@@ -1,6 +1,7 @@
 ---
 title: Season 1
 mc-ver: 1.13.x
+seed: tumblesmp
 date-started: 20-07-2018
 members:
 - member: tumblegamer
