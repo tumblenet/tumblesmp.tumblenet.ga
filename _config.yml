@@ -1,8 +1,8 @@
-title: Website Template
+title: Tumble SMP
 description: > # this means to ignore newlines until "baseurl:"
   My Github Website
-base-url: ""
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+base-url: "/tumblesmp.tumblecraft.ga/"
+url: "http://github.tumblenet.ga" # the base hostname & protocol for your site, e.g. http://example.com
 repository: tumblenet/website-template
 
 #favicon: favicon.gif
