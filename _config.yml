@@ -1,7 +1,7 @@
 title: Tumble SMP
 description: > # this means to ignore newlines until "baseurl:"
   My Github Website
-base-url: "/tumblesmp.tumblecraft.ga/"
+base-url: "/beta/"
 url: "http://github.tumblenet.ga" # the base hostname & protocol for your site, e.g. http://example.com
 repository: tumblenet/website-template
 
@@ -23,7 +23,7 @@ plugins:
  - jekyll-avatar
  - jemoji
  - jekyll-mentions
- - jekyll-include-cache
+# - jekyll-include-cache
 
 
 # Build settings
