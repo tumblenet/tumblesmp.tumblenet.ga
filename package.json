@@ -1,0 +1,35 @@
+{
+  "name": "tumblesmp.tumblenet.ga",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "npm run build && bundle exec jekyll serve",
+    "build": "webpack --config webpack.config.js",
+    "install": "bundle install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tumblenet/tumblesmp.tumblenet.ga.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tumblenet/tumblesmp.tumblenet.ga/issues"
+  },
+  "homepage": "https://github.com/tumblenet/tumblesmp.tumblenet.ga#readme",
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.11.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.1",
+    "sass-loader": "^7.1.0",
+    "uglifyjs-webpack-plugin": "^2.1.1",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

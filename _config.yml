@@ -50,3 +50,9 @@ excludes:
   - ".gitignore"
   - CNAME
   - icomoon-selection.json
+  - webpack.config.js
+  - LICENSE
+  - README
+  - src
+  - script
+  -
