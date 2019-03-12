@@ -1,6 +1,6 @@
 ---
 title: Season 1
-version: 1.13.x
+version: "1.13"
 seed: tumblesmp
 dateStarted: 12-03-2019
 members:
