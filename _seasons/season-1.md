@@ -1,6 +1,6 @@
 ---
 title: Season 1
-version: It's raining men, hallelujah, it's raining men, amen
+version: "1.13"
 seed: tumblesmp
 dateStarted: 12-03-2019
 members:
